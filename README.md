@@ -1,6 +1,15 @@
 Chitter Challenge
 =================
 
+------------------------------
+##Post-completion comments
+
+- This was a useful recap of the work we did on the Bookmark Manager tutorial in the days beforehand, with a few extra twists thrown in. It did help me to reinforce the new concepts and to get used to the more complex directory structure. I also managed to incorporate some CSS which was quite rewarding.
+- I enjoyed investigating the code required for the extra functionality, e.g.users can only can peep if they are logged in, and displaying messages in chrono order with properly formatted time/dates.
+
+--------------------------------
+
+
 * Challenge time: Friday afternoon (+ weekend if you need it)
 * Feel free to use google, your notes, books, etc but work on your own
 * You must submit a pull request to this repo with your code by 9am Monday morning
