@@ -20,10 +20,3 @@ enable :sessions
 set :session_secret, 'top secret'
 set :partial_template_engine, :erb
 use Rack::Flash
-
-
-
-
-
-
-
