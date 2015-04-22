@@ -7,6 +7,8 @@ Chitter Challenge
 - This was a useful recap of the work we did on the Bookmark Manager tutorial in the days beforehand, with a few extra twists thrown in. It did help me to reinforce the new concepts and to get used to the more complex directory structure. I also managed to incorporate some CSS which was quite rewarding.
 - I enjoyed investigating the code required for the extra functionality, e.g.users can only can peep if they are logged in, and displaying messages in chrono order with properly formatted time/dates.
 
+[![Code Climate](https://codeclimate.com/github/jjnewman/chitter-challenge/badges/gpa.svg)](https://codeclimate.com/github/jjnewman/chitter-challenge)
+ 
 --------------------------------
 
 
